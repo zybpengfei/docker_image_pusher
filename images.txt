@@ -7,11 +7,4 @@ xhofe/alist:latest
 python:3.10-slim
 golang
 java
-#数据库
-mysql
-mongo
-#Web 服务器软件
-nginx
-#数据值存储数据库
-redis
-Memcached
+

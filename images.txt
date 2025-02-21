@@ -3,8 +3,20 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+
 #语言
 python:3.10-slim
 golang
 openjdk
 
+#数据库
+mysql
+mongo
+
+#web 服务器软件
+nginx
+apache
+
+#数据值数据库
+redis
+Memcached

@@ -15,6 +15,7 @@ mongo
 
 #web 服务器软件
 nginx
+httpd:2.4
 
 #数据值数据库
 redis

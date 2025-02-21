@@ -15,7 +15,6 @@ mongo
 
 #web 服务器软件
 nginx
-apache
 
 #数据值数据库
 redis

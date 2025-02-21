@@ -1,10 +1,17 @@
-nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+#语言
 python:3.10-slim
 golang
-
-
+java
+#数据库
+mysql
+mongo
+#Web 服务器软件
+nginx
+#数据值存储数据库
+redis
+Memcached
